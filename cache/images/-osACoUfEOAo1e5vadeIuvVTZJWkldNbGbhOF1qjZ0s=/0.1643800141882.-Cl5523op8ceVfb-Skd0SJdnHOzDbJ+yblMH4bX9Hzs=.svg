@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>5030B71A-028F-41D0-8AEE-7A426F96B131</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Technical-Data_tableview" transform="translate(-47.000000, -566.000000)">
+            <g id="Group-8-" transform="translate(24.000000, 420.000000)">
+                <g id="Group-7-Copy-3" transform="translate(1.000000, 136.000000)">
+                    <g id="Group-43" transform="translate(20.000000, 8.000000)">
+                        <g id="Reactor-coolant-system-Copy-2">
+                            <polygon id="Path" points="0 0 22.7368421 0 22.7368421 22.7368421 0 22.7368421"></polygon>
+                            <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(1.894737, 2.842105)">
+                                <path d="M8.59209494,6.91021243 L6.41730411,1.14040951 C7.24361838,0.412119724 8.37405972,0 9.57519881,0 C10.7768804,0 11.9073217,0.412119724 12.7330936,1.14040951 L10.296165,7.04903718" id="Path" fill="#0C0C0C" fill-rule="nonzero"></path>
+                                <path d="M3.78141548,14.7810952 L1.57894765,9.16475812 C2.40526191,8.43646833 3.53570324,8.02434861 4.73684238,8.02434861 C5.93852396,8.02434861 7.06896526,8.43646833 7.89473711,9.16475812 L5.44394672,15.0440133" id="Path" fill="#0C0C0C" fill-rule="nonzero" transform="translate(4.736842, 11.534181) rotate(-123.000000) translate(-4.736842, -11.534181) "></path>
+                                <path d="M13.0484407,15.1028286 L10.8853409,9.52179755 C11.7116552,8.79350774 12.8420965,8.38138802 14.0432356,8.38138802 C15.2449172,8.38138802 16.3753585,8.79350774 17.2011303,9.52179755 L14.8261183,15.067527" id="Path" fill="#0C0C0C" fill-rule="nonzero" transform="translate(14.043236, 11.742108) rotate(120.000000) translate(-14.043236, -11.742108) "></path>
+                                <path d="M7.1073025,8.88225734 C7.1073025,7.57599397 8.16985705,6.51343937 9.47552504,6.51343937 C10.7817885,6.51343937 11.8441446,7.57599397 11.8441446,8.88225734 C11.8441446,10.1879253 10.7817885,11.2502815 9.47552504,11.2502815 C8.16985705,11.2504799 7.1073025,10.1879253 7.1073025,8.88225734 L7.1073025,8.88225734 Z" id="Path" stroke="#0C0C0C" stroke-width="0.947368421" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M13.8778787,6.92995659 C13.4184057,7.61491323 13.1503703,8.43907062 13.1503703,9.32583103" id="Oval" stroke="#0C0C0C" stroke-width="0.947368421" transform="translate(13.514124, 8.127894) rotate(153.000000) translate(-13.514124, -8.127894) "></path>
+                                <path d="M16.2443723,4.8488497 C14.8655676,6.03346446 13.9922547,7.7898737 13.9922547,9.75025609" id="Oval" stroke="#0C0C0C" stroke-width="0.947368421" transform="translate(15.118313, 7.299553) rotate(140.000000) translate(-15.118313, -7.299553) "></path>
+                                <path d="M7.11673483,4.54649677 C6.73036233,5.19214764 6.50829408,5.94742934 6.50829408,6.75457787" id="Oval" stroke="#0C0C0C" stroke-width="0.947368421" transform="translate(6.812514, 5.650537) rotate(35.000000) translate(-6.812514, -5.650537) "></path>
+                                <path d="M6.20767316,2.34347158 C5.00778189,3.5162647 4.26299132,5.15270284 4.26299132,6.96309613" id="Oval" stroke="#0C0C0C" stroke-width="0.947368421" transform="translate(5.235332, 4.653284) rotate(22.000000) translate(-5.235332, -4.653284) "></path>
+                                <path d="M8.14727588,11.952956 C7.92449595,12.4729774 7.80115,13.0457197 7.80115,13.6472709" id="Oval" stroke="#0C0C0C" stroke-width="0.947368421" transform="translate(7.974213, 12.800113) rotate(-81.000000) translate(-7.974213, -12.800113) "></path>
+                                <path d="M8.54624262,12.6582557 C7.63101378,13.7729644 7.08163899,15.1995072 7.08163899,16.7543633" id="Oval" stroke="#0C0C0C" stroke-width="0.947368421" transform="translate(7.813941, 14.706310) rotate(-94.000000) translate(-7.813941, -14.706310) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

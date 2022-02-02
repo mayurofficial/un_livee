@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>2C048B85-C74B-4CE8-A7C6-B7FD9A77E840</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Technical-Data_tableview" transform="translate(-48.000000, -486.000000)">
+            <g id="Group-8-" transform="translate(24.000000, 420.000000)">
+                <g id="Group-7-Copy" transform="translate(1.000000, 56.000000)">
+                    <g id="Group-41" transform="translate(20.000000, 8.000000)">
+                        <g id="Reactor-unit-Copy-2">
+                            <polygon id="Path" points="0 0 22.7368421 0 22.7368421 22.7368421 0 22.7368421"></polygon>
+                            <g id="Group-7" transform="translate(3.789474, 1.894737)">
+                                <path d="M3.7603522,6.59038902 C6.503803,6.59038902 9.53676853,6.52746382 9.99210032,6.59038902 C10.2206523,10.1796588 11.7487025,14.2986519 14.5762511,18.9473684 L0,18.9473684 C2.32919371,14.2986519 3.58264444,10.1796588 3.7603522,6.59038902 Z" id="Rectangle" fill="#0C0C0C" fill-rule="nonzero"></path>
+                                <rect id="Rectangle" stroke="#F0F0F0" stroke-width="0.75" fill="#0C0C0C" fill-rule="nonzero" stroke-linejoin="round" x="2.70097998" y="4.09268529" width="8.23798627" height="2.47139588"></rect>
+                                <path d="M1.64759731,0.823798644 C2.08974976,1.55882099 2.70514752,1.80314178 3.49379063,1.55676103 C4.67675527,1.1871899 5.07479941,1.55676103 5.33998393,2.28972342" id="Path-11" stroke="#0C0C0C" stroke-width="0.947368421" stroke-linecap="round" transform="translate(3.493791, 1.556761) rotate(15.000000) translate(-3.493791, -1.556761) "></path>
+                                <path d="M4.94279184,0.823798611 C5.38494429,1.55882096 6.00034205,1.80314175 6.78898516,1.556761 C7.9719498,1.18718987 8.36999394,1.556761 8.63517846,2.28972339" id="Path-11" stroke="#0C0C0C" stroke-width="0.947368421" stroke-linecap="round" transform="translate(6.788985, 1.556761) rotate(19.000000) translate(-6.788985, -1.556761) "></path>
+                                <g id="Group-6" stroke-linejoin="round" transform="translate(3.992217, 10.710393)" fill-rule="nonzero">
+                                    <path d="M2.85741245,2.39680581 L1.91950911,0.550254361 C2.27273645,0.245687758 2.72061055,0.0934044571 3.2631314,0.0934044571 C3.80565225,0.0934044571 4.25352636,0.245687758 4.60675369,0.550254361 L3.70825628,2.43439613" id="Rectangle" fill="#FFFFFF"></path>
+                                    <path d="M4.34963221,5.30961315 L3.41172887,3.4630617 C3.76495621,3.1584951 4.2128303,3.00621179 4.75535116,3.00621179 C5.29787202,3.00621179 5.74574611,3.1584951 6.09897345,3.4630617 L5.20047603,5.34720347" id="Rectangle-Copy" fill="#FFFFFF" transform="translate(4.755351, 4.176708) rotate(127.000000) translate(-4.755351, -4.176708) "></path>
+                                    <path d="M1.49399983,5.20109585 L0.444850987,3.39347738 C0.798078325,3.08891077 1.24595242,2.93662748 1.78847328,2.93662748 C2.33099413,2.93662748 2.77886823,3.08891077 3.13209557,3.39347738 L2.23359815,5.27761914" id="Rectangle-Copy-2" fill="#FFFFFF" transform="translate(1.788473, 4.107123) rotate(-125.000000) translate(-1.788473, -4.107123) "></path>
+                                    <circle id="Oval" stroke="#FFFFFF" stroke-width="0.75" fill="#0C0C0C" cx="3.29007591" cy="3.08189107" r="1"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

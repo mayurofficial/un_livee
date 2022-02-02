@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="19px" viewBox="0 0 17 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 60 (101010) - https://sketch.com -->
+    <title>30F6E9BD-C03C-44BE-B149-B5815CB2C3C3</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Technical-Data_tableview" transform="translate(-47.000000, -608.000000)">
+            <g id="Group-8-" transform="translate(24.000000, 420.000000)">
+                <g id="Group-7-Copy-4" transform="translate(1.000000, 176.000000)">
+                    <g id="Group-12" transform="translate(20.000000, 9.000000)">
+                        <g id="Reactor-core-Copy-2" transform="translate(0.594427, 0.594427)">
+                            <polygon id="Path" points="0 0 21.3993808 0 21.3993808 21.3993808 0 21.3993808"></polygon>
+                            <g id="Group" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.674923, 1.783282)" fill-rule="nonzero" stroke="#0C0C0C" stroke-width="0.891640867">
+                                <polyline id="Path-13" fill="#FFFFFF" points="2.54754534 14.5439947 2.54754534 17.4795712 4.4408921e-16 17.4795712 4.4408921e-16 14.5439947 2.54754534 12.3555949"></polyline>
+                                <polyline id="Path-13" fill="#FFFFFF" transform="translate(13.824944, 15.016222) scale(-1, 1) translate(-13.824944, -15.016222) " points="14.9121618 14.0539585 14.9121618 17.4795712 12.7377258 17.4795712 12.7377258 14.5439947 14.9121618 12.5528728"></polyline>
+                                <path d="M2.54754534,15.2315824 L2.54754534,6.15959236 C2.54754534,4.98708811 4.02811832,3.66262611 7.642636,3.66262611 C11.2571537,3.66262611 12.7377267,5.158836 12.7377267,6.15959236 L12.7377267,15.2315824 C11.0393631,15.7977036 9.34099958,16.0807642 7.642636,16.0807642 C5.94427245,16.0807642 4.24590889,15.7977036 2.54754534,15.2315824 Z" id="Rectangle" fill="#0C0C0C"></path>
+                                <line x1="5.94427245" y1="1.31623091" x2="9.34099958" y2="1.31623091" id="Path-12" fill="#FFFFFF" transform="translate(7.642636, 1.316231) scale(-1, 1) rotate(-180.000000) translate(-7.642636, -1.316231) "></line>
+                                <rect id="Rectangle" fill="#FFFFFF" x="2.54754534" y="7.21804512" width="10.1901813" height="3.56656347"></rect>
+                                <line x1="7.642636" y1="12.7801857" x2="7.642636" y2="18.2998673" id="Rectangle" fill="#FFFFFF"></line>
+                                <line x1="6.79345422" y1="1.95063304" x2="6.79345422" y2="3.6489966" id="Path-14" fill="#FFFFFF"></line>
+                                <line x1="8.49181778" y1="1.95063304" x2="8.49181778" y2="3.6489966" id="Path-14-Copy" fill="#FFFFFF"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
